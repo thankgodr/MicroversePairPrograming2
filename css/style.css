@@ -1,0 +1,10 @@
+#image {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: block;
+
+}
+
+#img-div {
+    max-width: 100% !important;
+}
